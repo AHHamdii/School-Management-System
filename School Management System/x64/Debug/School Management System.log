@@ -1,0 +1,5 @@
+﻿  main.c
+  School.c
+  Generating Code...
+D:\study\COURSES\Full Embedded\School Management System\School Management System\School.c(573,2): warning C4013: 'getch' undefined; assuming extern returning int
+  School Management System.vcxproj -> D:\study\COURSES\Full Embedded\School Management System\x64\Debug\School Management System.exe
